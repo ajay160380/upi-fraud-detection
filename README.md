@@ -1,5 +1,6 @@
 # UPI Fraud Detection with Anomaly Detection
 
+🚀 **Live Demo:** [https://upi-fraud-detection-baq5.onrender.com](https://upi-fraud-detection-baq5.onrender.com)
 ## Overview & Problem Statement
 In India's Unified Payments Interface (UPI) ecosystem, millions of transactions occur daily. Detecting fraud in real-time requires balancing precision (minimizing false alarms that frustrate users) and recall (catching actual fraud). This portfolio project builds a complete, end-to-end UPI fraud detection system from scratch using Python, FastAPI, and Streamlit, employing an unsupervised machine learning approach to catch anomalous transaction patterns without relying on labeled historical fraud data for training.
 
