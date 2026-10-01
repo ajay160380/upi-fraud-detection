@@ -10,7 +10,7 @@ st.set_page_config(page_title="UPI Fraud Detection", layout="wide")
 
 st.title("UPI Fraud Detection Dashboard")
 
-API_URL = os.environ.get("API_URL", "http://localhost:8000")
+API_URL = os.environ.get("API_URL", "http://127.0.0.1:8000")
 
 # Sidebar settings
 with st.sidebar:
