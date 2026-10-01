@@ -1,0 +1,13 @@
+fastapi==0.142.2
+httpx==0.28.1
+joblib==1.6.0
+matplotlib==3.11.2
+numpy==2.5.3
+pandas==3.0.6
+pydantic==2.13.5
+pytest==9.1.1
+scikit-learn==1.9.1
+seaborn==0.13.2
+streamlit==1.64.0
+tabulate==0.10.0
+uvicorn==0.54.0

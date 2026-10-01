@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+data/app.db
+data/features.csv
